@@ -10,5 +10,7 @@ import { Input } from '@angular/core';
 })
 export class CourseDetailComponent {
 
-  @Input() course: Course;
+  @Input() course: Course; 
+
+  
 }
